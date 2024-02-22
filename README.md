@@ -1,12 +1,16 @@
-# Cargo Management: A Comprehensive Solution for Streamlining Freight Forwarding Processes
+<div align="center">
 
-![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
+# Cargo Management: A Comprehensive Solution for Streamlining Freight Forwarding Processes
 
 Cargo Management is a robust and user-friendly platform designed for freight forwarding companies. It integrates and streamlines various logistics processes, offering efficient package tracking, invoicing, warehouse management, and more. 
 
-- [Explore the Docs](https://empress.eco/)
-- [Report Bug](https://github.com/empress-eco/cargo_management/issues)
-- [Request Feature](https://github.com/empress-eco/cargo_management/issues)
+[Explore the Docs](https://empress.eco/) | 
+[Report Bug](https://github.com/empress-eco/cargo_management/issues) | 
+[Request Feature](https://github.com/empress-eco/cargo_management/issues)
+
+</div>
 
 ## About The Project
 
